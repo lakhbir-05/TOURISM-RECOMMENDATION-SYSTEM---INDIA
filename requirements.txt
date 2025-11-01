@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+requests
+matplotlib
+seaborn
+shap
+geopy
+
